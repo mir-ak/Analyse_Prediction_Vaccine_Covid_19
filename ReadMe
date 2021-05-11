@@ -1,0 +1,14 @@
+
+
+les libraires qu'il faut installer
+pip3 install geopy
+pip3 install folium
+pip3 install seaborn
+pip3 install prophet
+pip3 install plotly
+pip3 install plotly
+pip3 install pandas
+pip3 install matplotlib
+
+puis 
+$ python3 Vaccinations_Covid_19.py
